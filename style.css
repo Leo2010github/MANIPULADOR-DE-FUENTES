@@ -1,0 +1,21 @@
+body{
+    background-color: darkturquoise;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+h1{
+    text-shadow: 10px 10px 10px rgb(247, 0, 255);
+    color: rgb(0, 0, 0);
+}
+h2{
+    text-shadow: 10px 10px 10px rgb(229, 255, 0);
+}
+#ancho{
+    background-color: black;
+    color: white;
+    height: 42px;
+    width: 400px;
+}
+canvas{
+    background-color: white; 
+    box-shadow: 15px 15px 10px rgb(128, 0, 0);
+}
